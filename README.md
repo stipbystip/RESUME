@@ -13,9 +13,9 @@
 - Алгоритмы и структуры данных
 - Python, C++
 - Работал:
-	- Numpy, Pandas, Polars, Matplotlib 
-	- Sklearn, Catboost
-	- PyTorch, Gensim 
+	- Numpy, Pandas, Polars, Matplotlib, Seaborn
+	- Sklearn, Catboost, Xgboost
+	- PyTorch, Gensim, Transformers, nltk и другие
 - Работал с Docker, Dockerfile и DockerCompose
 * Немного знаком с JS, Kotlin
 * Владею английским на уровне B1
